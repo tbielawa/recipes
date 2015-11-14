@@ -3,7 +3,7 @@
 This is called the *Quicker* Chicken Noodle Soup recipe, because we
 are substituting uncooked chicken breast with pre-cooked carved
 chicken breast. All in all this can cut off almost an hour of time
-spent in preparate.
+spent in preparation.
 
 However, doing it the long way (boiling, and preparing the chicken)
 pays off in flavor and satisfaction points.
@@ -11,34 +11,37 @@ pays off in flavor and satisfaction points.
 
 ## Shopping List
 
-* 5 Cups (by volume) of Dumpling Noodles - (``"No Yolks" 12oz bag``)
+* ``5 Cups`` (by volume) of Dumpling Noodles - (``"No Yolks" 12oz bag``)
 
 * ``144oz`` **Chicken Broth** - (``College Inn 48oz can`` x3)
 
 * ``12`` to ``18oz`` **Carved Chicken Breast** (adjust to
   preference) - (``Perdue Short Cuts - Original Roasted`` x2)
 
-* 2 Tablespoons (30ml) Adobo Seasoning
+* ``2 Tablespoons`` (``30ml``) Adobo Seasoning
 
-* 1 Teaspoon (5ml) Ground Black Pepper
+* ``1 Teaspoon`` (``5ml``) Ground Black Pepper
 
-* 1/2 cup vegetable oil. Really though, any kind of oil will due. Feel
-  free to select your favorite one if you have a flavor preference.
+* ``1/2 cup`` vegetable oil. Really though, any kind of oil will
+  due. Feel free to select your favorite one if you have a flavor
+  preference.
 
 
-*Take note that you are encouraged to adjust the exact quantities
- described above to suit your preferences*
-
+```
+Take note that you are encouraged to adjust the exact quantities
+described above to suit your preferences
+```
 
 # Order of Operations
 
 In parallel we will:
 
 * Do some brief preparation of the chicken
+
 * Begin warming the stock pot and broth
 
-We'll put the prepared chicken, pepper, and Adobo into the stock pot
-and allow it to heat to boiling
+* We'll put the prepared chicken, pepper, and Adobo into the stock pot
+  and allow it to heat to boiling
 
 * Once boiling we'll add the oil and noodles
 
@@ -48,8 +51,8 @@ and allow it to heat to boiling
 
 ## Preparation
 
-Pour about 96ox (two 48oz cans) of chicken broth into stock pot. Put
-on high fire to begin raising the broth to boiling.
+Pour about ``96oz`` (two ``48oz`` cans) of chicken broth into stock
+pot. Put on high fire to begin raising the broth to boiling.
 
 While the broth is warming, take the chicken out of the container and
 examine the pieces before you. Separate longer and shorter pieces.
@@ -75,9 +78,13 @@ the oil into the stock pot.
 Stir occasionally, taking **special care* to ensure that the stock pot
 does not boil over.
 
-* Depending on how much room you have left in your pot, as well as how
-  much chicken and noodles you have used, you may wish to add
-  additional chicken broth into the stock pot at this point.
+
+```
+Depending on how much room you have left in your pot, as well as how
+much chicken and noodles you have used, you may wish to add additional
+chicken broth into the stock pot at this point.
+```
+
 
 Boil until the noodles are cooked to your preference.
 
